@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rachel (@rxchell)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in UI/UX and web development. Open to any opportunities too!
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on web development, UI/UX
 - 📫 How to reach me: Telegram @rxchelt
 
 <!---

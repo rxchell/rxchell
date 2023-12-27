@@ -2,7 +2,7 @@
 - 👩🏻‍💻 I’m interested in **web development**, **mobile development**, and **UI/UX**. Open to any opportunities as well!
 - 💻 I’m currently learning **`Java`** and **`JavaScript`**.
 - 💞️ I’m looking to collaborate on _web development, mobile development, UI/UX, and any other areas_! :) 
-- 💬 How to reach me: LinkedIn: https://www.linkedin.com/in/racheltai-/
+- 💬 [LinkedIn](https://www.linkedin.com/in/racheltai-/): https://www.linkedin.com/in/racheltai-/
 
 <!---
 rxchell/rxchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

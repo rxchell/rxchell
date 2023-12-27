@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="file:///var/folders/hm/0mrx0_wj6n9fs3r2d0p2zz_40000gn/T/TemporaryItems/NSIRD_screencaptureui_usK7cQ/Screenshot%202023-12-27%20at%2011.22.56.png">
- <source media="(prefers-color-scheme: light)" srcset="file:///var/folders/hm/0mrx0_wj6n9fs3r2d0p2zz_40000gn/T/TemporaryItems/NSIRD_screencaptureui_usK7cQ/Screenshot%202023-12-27%20at%2011.22.56.png">
- <img alt="YOUR-ALT-TEXT" src="file:///var/folders/hm/0mrx0_wj6n9fs3r2d0p2zz_40000gn/T/TemporaryItems/NSIRD_screencaptureui_usK7cQ/Screenshot%202023-12-27%20at%2011.22.56.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.linkedin.com/in/racheltai-/">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.linkedin.com/in/racheltai-/">
+ <img alt="YOUR-ALT-TEXT" src="https://www.linkedin.com/in/racheltai-/">
 </picture>

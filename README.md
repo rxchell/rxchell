@@ -16,7 +16,7 @@
 - _UI/UX_, and
 - _any other areas_! :) 
 
-### 💬 [LinkedIn] (https://www.linkedin.com/in/racheltai-/) https://www.linkedin.com/in/racheltai-/
+### 💬 LinkedIn https://www.linkedin.com/in/racheltai-/
 
 <!---
 rxchell/rxchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

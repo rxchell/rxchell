@@ -17,8 +17,8 @@
 - _any other areas_! :) 
 
 ### 💬 Feel free to contact me at  
-🔔 https://www.linkedin.com/in/racheltai-/
-📧 rachel.tkj@gmail.com
+- 🔔 https://www.linkedin.com/in/racheltai-/
+- 📧 rachel.tkj@gmail.com
 
 <!---
 rxchell/rxchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

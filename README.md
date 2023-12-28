@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Rachel! (@rxchell)
+## 👋 Hi, I’m Rachel! 🤩 (@rxchell)
 
 ### 👩🏻‍💻 I’m interested in 
 - **web development**

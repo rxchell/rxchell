@@ -4,8 +4,7 @@
 - **web development**
 - **mobile development**, and
 - **UI/UX**.
-- I am still exploring other ooprtunities too!
-- Open to any opportunities as well!
+- I am open to other opportunities too!
 
 ### 💻 I’m currently learning 
 - **`Java`** 

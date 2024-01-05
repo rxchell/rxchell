@@ -14,7 +14,7 @@
 - _web development_,
 - _mobile development_,
 - _UI/UX_, and
-- _any other areas_! :) 
+- _any other areas (open to any opportunity)_! :) 
 
 ### 💬 Feel free to contact me at  
 - 🔔 https://www.linkedin.com/in/racheltai-/

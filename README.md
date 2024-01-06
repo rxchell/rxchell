@@ -11,6 +11,7 @@
 - **`JavaScript`**
   
 ### 💞️ I’m looking to collaborate on 
+- _any projects_, 
 - _web development_,
 - _mobile development_,
 - _UI/UX_, and

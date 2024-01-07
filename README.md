@@ -2,9 +2,10 @@
 
 ### 👩🏻‍💻 I’m interested in 
 - **web development**
-- **mobile development**, and
+- **mobile development**,
+- **AI**,
 - **UI/UX**.
-- I am actively seeking and exploring other opportunities too eg AI, Machine Learning!
+- I am actively seeking and exploring other opportunities too eg Machine Learning, HealthTech!
 
 ### 💻 I’m currently learning 
 - **`Java`** 

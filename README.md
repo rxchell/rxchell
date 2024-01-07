@@ -4,7 +4,7 @@
 - **web development**
 - **mobile development**, and
 - **UI/UX**.
-- I am actively seeking and epxloring other opportunities too eg AI, Machine Learning!
+- I am actively seeking and exploring other opportunities too eg AI, Machine Learning!
 
 ### 💻 I’m currently learning 
 - **`Java`** 

@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m Rachel! 🤩 (@rxchell)
 
 ### 👩🏻‍💻 I’m interested in 
+- **AI**,
 - **web development**
 - **mobile development**,
-- **AI**,
 - **UI/UX**.
 - I am actively seeking and exploring other opportunities too eg Machine Learning, HealthTech!
 

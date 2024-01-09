@@ -18,8 +18,7 @@ Today is Tuesday, 9 January at 1:15 pm SGT. (updates every 1 hour)
 - _UI/UX,_ and
 - _any other areas_! :)
 
-### 💬 [LinkedIn] 
-https://www.linkedin.com/in/racheltai-/
+### 💬 [LinkedIn](https://www.linkedin.com/in/racheltai-/)
 
 <!---
 rxchell/rxchell is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.

@@ -13,10 +13,10 @@ Today is Tuesday, 9 January at 12:49 pm SGT.
 - **`Javascript`**
 
 ## 💞️ I’m looking to collaborate on 
-_- web development,_
-_- mobile development,_
-_- UI/UX,_ and
-_- any other areas_! :)
+- _web development,_
+- _mobile development,_
+- _UI/UX,_ and
+- _any other areas_! :)
 
 ## 💬 [LinkedIn] (https://www.linkedin.com/in/racheltai-/) https://www.linkedin.com/in/racheltai-/
 

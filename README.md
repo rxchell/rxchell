@@ -13,7 +13,7 @@ Today is Tuesday, 9 January at 1:15 pm SGT. (updates every 1 hour)
 - **`Javascript`**
 
 ### 💞️ I am very willing to learn and work together! I am looking to collaborate on 
-- _any projects,_
+- _any projects e.g. AI,_
 - _web development,_
 - _mobile development,_
 - _UI/UX,_ and

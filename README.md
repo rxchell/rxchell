@@ -19,10 +19,9 @@ Today is Tuesday, 9 January at 1:15 pm SGT. (updates every 1 hour)
 - _UI/UX,_ and
 - _any other areas (open to any opportunity)_! :)
 
-### 💬 Feel free to contact me at 
-🔔 **[LinkedIn](https://www.linkedin.com/in/racheltai-/):** https://www.linkedin.com/in/racheltai-/
-
-📧 **[Email](rachel.tkj@gmail.com):** rachel.tkj@gmail.com
+### 💬 Feel free to contact me!
+- 🔔 **[LinkedIn](https://www.linkedin.com/in/racheltai-/):** https://www.linkedin.com/in/racheltai-/
+- 📧 **[Email](rachel.tkj@gmail.com):** rachel.tkj@gmail.com
 
 <!---
 rxchell/rxchell is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.

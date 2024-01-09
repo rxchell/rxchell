@@ -1,5 +1,5 @@
-## 👋 Hi, I’m Rachel! 🤩 (@rxchell)
-Today is Tuesday, 9 January at 12:49 pm SGT.
+## 👋 Hello! I am Rachel! 🤩 (@rxchell)
+Today is Tuesday, 9 January at 1:12 pm SGT. (updates every 1 hour)
 
 ### 👩🏻‍💻 I’m interested in 
 - **AI**,
@@ -12,13 +12,14 @@ Today is Tuesday, 9 January at 12:49 pm SGT.
 - **`Java`**
 - **`Javascript`**
 
-## 💞️ I’m looking to collaborate on 
+### 💞️ I’m looking to collaborate on 
 - _web development,_
 - _mobile development,_
 - _UI/UX,_ and
 - _any other areas_! :)
 
-## 💬 [LinkedIn] (https://www.linkedin.com/in/racheltai-/) https://www.linkedin.com/in/racheltai-/
+### 💬 [LinkedIn] 
+https://www.linkedin.com/in/racheltai-/
 
 <!---
 rxchell/rxchell is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.

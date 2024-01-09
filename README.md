@@ -1,5 +1,5 @@
-## 👋 Hello! I am Rachel! 🤩 (@rxchell)
-Today is Tuesday, 9 January at 1:12 pm SGT. (updates every 1 hour)
+## 👋 Hi, I’m Rachel! 🤩 (@rxchell)
+Today is Tuesday, 9 January at 12:49 pm SGT.
 
 ### 👩🏻‍💻 I’m interested in 
 - **AI**,

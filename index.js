@@ -1,11 +1,15 @@
-import dotenv from 'dotenv'; // Import dotenv 
-import Mustache from 'mustache';
-import fetch from 'node-fetch';
-import fs from 'fs';
+// index.js
+const Mustache = require('mustache');
+const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
+/**
+  * DATA is the object that contains all
+  * the data to be provided to Mustache
+  * Notice the "name" and "date" property.
+*/
 let DATA = {
   name: 'Rachel',
-  date: new Date().toLocaleDateString('en-GB', {
+  date: new Date().toLocaleDateString('en-SG', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
@@ -15,13 +19,16 @@ let DATA = {
     timeZone: 'Asia/Singapore',
   }),
 };
-
-async function generateReadMe() {
-  await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+/**
+  * A - We open 'main.mustache'
+  * B - We ask Mustache to render our file with the data
+  * C - We create a README.md file with the generated output
+  */
+function generateReadMe() {
+  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
   });
 }
-
-action();
+generateReadMe();

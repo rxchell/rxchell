@@ -24,7 +24,7 @@
 - _any other areas (open to any opportunity)_! :)
 
 ### 💬 Feel free to contact me!
-- 🔔 **[LinkedIn](https://www.linkedin.com/in/racheltai-/):** https://www.linkedin.com/in/racheltai-/
+- 🔔 **[LinkedIn](https://img.shields.io/badge/LinkedIn-blue):** https://www.linkedin.com/in/racheltai-/
 - 📧 **[Email](rachel.tkj@gmail.com):** rachel.tkj@gmail.com
   
 

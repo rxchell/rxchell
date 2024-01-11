@@ -22,5 +22,8 @@
 - 🔔 **[LinkedIn](https://www.linkedin.com/in/racheltai-/):** https://www.linkedin.com/in/racheltai-/
 - 📧 **[Email](rachel.tkj@gmail.com):** rachel.tkj@gmail.com
 
+## :fire: My Stats :
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=rxchell&theme=dark&background=000000)
+
 <!---
 rxchell/rxchell is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.

@@ -30,8 +30,8 @@
 - _any other areas (open to any opportunity)_! :)
 
 ### 💬 Feel free to contact me!
-- 🔔 **![LinkedIn]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)):** https://www.linkedin.com/in/racheltai-/
-- 📧 **![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white):** rachel.tkj@gmail.com 
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/racheltai-/
+- ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): rachel.tkj@gmail.com 
 
 
 ## :fire: My Stats :

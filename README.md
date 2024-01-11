@@ -14,10 +14,13 @@
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?&style=for-the-badge&logo=css3&logoColor=white)
 
-#### 💻 Frameworks 
+#### 💻 `Frameworks` 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### 💻 Tools 
+#### 💻 `Tools` 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge)
 
 ### 💞️ I am very willing to learn and work together! I am looking to collaborate on 
 - _any projects e.g. AI,_

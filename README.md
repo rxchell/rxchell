@@ -1,4 +1,4 @@
-## 👋 Hello! I am Rachel! 🤩 (@rxchell) <img src="/kz6cm1kKle2MYkHtJF/giphy.gif>
+## 👋 Hello! I am Rachel! 🤩 (@rxchell) <img src="https://media.giphy.com/media//kz6cm1kKle2MYkHtJF/giphy.gif" width="40">
 
 ### 👩🏻‍💻 I am interested in 
 - **AI**,

@@ -1,5 +1,4 @@
-## 👋 Hello! I am Rachel! 🤩 (@rxchell) <img src="https://giphy.com/embed/kz6cm1kKle2MYkHtJF" width="40" height="30">
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/kz6cm1kKle2MYkHtJF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/moodman-kz6cm1kKle2MYkHtJF">via GIPHY</a></p>
+## 👋 Hello! I am Rachel! 🤩 (@rxchell) <img src="/kz6cm1kKle2MYkHtJF/giphy.gif>
 
 ### 👩🏻‍💻 I am interested in 
 - **AI**,

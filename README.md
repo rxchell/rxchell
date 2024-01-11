@@ -26,6 +26,7 @@
 ## :fire: My Stats :
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=rxchell&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxchell&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rxchell&show_icons=true&hide_rank=true&&show_icons=true&theme=dracula)
 
 <!---
 rxchell/rxchell is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.

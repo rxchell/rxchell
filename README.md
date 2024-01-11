@@ -23,7 +23,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge)
 
 ### 💞️ I am very willing to learn and work together! I am looking to collaborate on 
-- _any projects e.g. AI,_
+- _any projects e.g. AI/ML_
 - _web development,_
 - _mobile development,_
 - _UI/UX,_ and

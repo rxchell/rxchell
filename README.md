@@ -1,4 +1,4 @@
-## 👋 Hello! I am Rachel! 🤩 (@rxchell) <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="100">
+## 👋 Hello! I am Rachel! 🤩 <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="100">
 
 ### 👩🏻‍💻 I am interested in 
 - **AI**,
@@ -7,9 +7,12 @@
 - **UI/UX**.
 - I am actively seeking and exploring other opportunities too eg Machine Learning, HealthTech!
 
-#### 💻 Programming, Markup and Scripting Languages  
-- **`Java`**
-- **`Javascript`**
+#### 💻 `Programming, Markup and Scripting Languages` 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2965f1?&style=for-the-badge&logo=css3&logoColor=white)
 
 #### 💻 Frameworks 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 

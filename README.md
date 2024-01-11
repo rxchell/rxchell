@@ -7,9 +7,14 @@
 - **UI/UX**.
 - I am actively seeking and exploring other opportunities too eg Machine Learning, HealthTech!
 
-### 💻 I am currently learning 
+#### 💻 Programming, Markup and Scripting Languages  
 - **`Java`**
 - **`Javascript`**
+
+#### 💻 Frameworks 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+
+#### 💻 Tools 
 
 ### 💞️ I am very willing to learn and work together! I am looking to collaborate on 
 - _any projects e.g. AI,_

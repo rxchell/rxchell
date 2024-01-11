@@ -1,5 +1,5 @@
 ## 👋 Hello! I am Rachel! 🤩 (@rxchell) <img src="https://media.giphy.com/media//kz6cm1kKle2MYkHtJF/giphy.gif" width="40">
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ### 👩🏻‍💻 I am interested in 
 - **AI**,
 - **web development**

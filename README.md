@@ -24,9 +24,8 @@
   
 
 ## :fire: My Stats :
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=rxchell&theme=dark&background=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxchell&layout=compact&theme=vision-friendly-dark)
-![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxchell&show_icons=true&theme=vision-friendly-dark)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=rxchell&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxchell&layout=compact&theme=tokyonight)
 
 <!---
 rxchell/rxchell is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.

@@ -5,7 +5,7 @@
 - **web development**
 - **mobile development**,
 - **UI/UX**.
-- I am actively seeking and exploring other opportunities too eg Machine Learning, HealthTech!
+- I am actively seeking and exploring other opportunities too eg Machine Learning, HealthTech, Computer Vision!
 
 #### 💻 `Programming, Markup and Scripting Languages` 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -30,9 +30,9 @@
 - _any other areas (open to any opportunity)_! :)
 
 ### 💬 Feel free to contact me!
-- 🔔 **[LinkedIn](https://img.shields.io/badge/LinkedIn-blue):** https://www.linkedin.com/in/racheltai-/
-- 📧 **[Email](rachel.tkj@gmail.com):** rachel.tkj@gmail.com
-  
+- 🔔 **![LinkedIn]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)):** https://www.linkedin.com/in/racheltai-/
+- 📧 **![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white):** rachel.tkj@gmail.com 
+
 
 ## :fire: My Stats :
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=rxchell&theme=radical)

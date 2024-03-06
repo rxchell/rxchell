@@ -66,5 +66,6 @@ and more to come!
 
 <p>&nbsp;</p>
 
+[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxchell)](https://github.com/rxchell/github-readme-stats)
 <!---
 rxchell/rxchell is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.

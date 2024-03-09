@@ -6,6 +6,7 @@ A `Computer Science` student from NUS!  <img src="https://media.giphy.com/media/
 ## 👩🏻‍💻 I am interested in 
 - **web development**,
 - **mobile development**,
+- **full stack development**
 - **AI**,
 - **UI/UX**.
 - I am actively seeking and exploring other opportunities too eg Machine Learning, HealthTech, Computer Vision!

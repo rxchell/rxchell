@@ -7,7 +7,7 @@ A `Computer Science` student from NUS!  <img src="https://media.giphy.com/media/
 - **web development**,
 - **mobile development**,
 - **full stack development**
-- **AI**,
+- **AI, Machine Learning**,
 - **UI/UX**.
 - I am actively seeking and exploring other opportunities too eg Machine Learning, AI, Computer Vision!
 

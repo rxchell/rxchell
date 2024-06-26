@@ -1,9 +1,9 @@
-## 👋 Hello! I am Rachel! 🤩 
+# 👋 Hello! I am Rachel! 🤩 
 ✨ A `Computer Science` student from NUS! ✨  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="100"> 
 
 <p>&nbsp;</p>
 
-## 👩🏻‍💻 I am interested in 
+# 👩🏻‍💻 I am interested in 
 - **web development**,
 - **mobile development**,
 - **full stack development**
@@ -61,12 +61,15 @@ and more to come!
 
 <p>&nbsp;</p>
 
-## Some projects 
+# 💡 Some projects 
 - [Study Buddy - A collaborative module planner](nusstudybuddy.vercel.app/)
+- [Platform to monitor volunteering efforts](https://github.com/phhackforgood/impacttrack/tree/main)
+
+(feel free to look through my repository to view other projects!)
 
 <p>&nbsp;</p>
 
-## 💬 Feel free to contact me!
+# 💬 Feel free to contact me!
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/racheltai-/
 - ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): rachel.tkj@gmail.com 
 

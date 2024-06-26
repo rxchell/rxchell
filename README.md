@@ -1,5 +1,5 @@
 ## 👋 Hello! I am Rachel! 🤩 
-A `Computer Science` student from NUS!  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="100"> 
+✨ A `Computer Science` student from NUS! ✨  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="100"> 
 
 <p>&nbsp;</p>
 
@@ -66,6 +66,3 @@ and more to come!
 - ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): rachel.tkj@gmail.com 
 
 <p>&nbsp;</p>
-
-
-rxchell/rxchell is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.

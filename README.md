@@ -1,6 +1,5 @@
-## 👋 Hello! I am Rachel! 🤩 
+## 👋 Hello! I am Rachel! 🤩 (👉🏼 [My Website!](https://racheltaikejia.vercel.app/))
 ✨ A `Computer Science` student from NUS! ✨  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="100"> 
-[Website](https://racheltaikejia.vercel.app/)(in progress): https://racheltaikejia.vercel.app/ 
 
 <p>&nbsp;</p>
 

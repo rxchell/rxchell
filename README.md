@@ -45,6 +45,7 @@
 #### 💻 `Tools`
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -82,6 +83,6 @@ and more to come!
 ## 💬 Feel free to contact me!
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/racheltai-/
 - ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): rachel.tkj@gmail.com
-- !![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) **Website**: https://racheltaikejia.vercel.app/
+- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) **Website**: https://racheltaikejia.vercel.app/
 
 <p>&nbsp;</p>

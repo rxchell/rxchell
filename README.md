@@ -81,6 +81,7 @@ and more to come!
 
 ## 💬 Feel free to contact me!
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/racheltai-/
-- ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): rachel.tkj@gmail.com 
+- ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): rachel.tkj@gmail.com
+- !![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) **Website**: https://racheltaikejia.vercel.app/
 
 <p>&nbsp;</p>

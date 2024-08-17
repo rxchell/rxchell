@@ -5,6 +5,7 @@
 
 ## 👩🏻‍💻 I am interested in 
 **Software development (web / mobile / full-stack)**, **AI, Machine Learning**, **UI/UX** 
+<p>&nbsp;</p>
 I am actively seeking and exploring other opportunities eg Machine Learning, AI, Cloud Computing, Computer Vision!
 
 <p>&nbsp;</p>

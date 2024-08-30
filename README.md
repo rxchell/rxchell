@@ -6,7 +6,7 @@
 ## 👩🏻‍💻 I am interested in 
 **Software development (web / mobile / full-stack)**, **AI, Machine Learning**, **UI/UX**, **Project Managemenr**, **Product Management**
 
-> 🌟 I am actively seeking and exploring other opportunities eg Machine Learning, AI, Cloud Computing, Computer Vision! 🌟
+> 🌟 **I am actively seeking and exploring other opportunities eg Machine Learning, AI, Cloud Computing, Computer Vision**! 🌟
 
 <p>&nbsp;</p>
 

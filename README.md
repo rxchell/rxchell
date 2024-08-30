@@ -5,8 +5,8 @@
 
 ## 👩🏻‍💻 I am interested in 
 **Software development (web / mobile / full-stack)**, **AI, Machine Learning**, **UI/UX** 
-<p>&nbsp;</p>
-I am actively seeking and exploring other opportunities eg Machine Learning, AI, Cloud Computing, Computer Vision!
+
+> 🌟 I am actively seeking and exploring other opportunities eg Machine Learning, AI, Cloud Computing, Computer Vision! 🌟
 
 <p>&nbsp;</p>
 
@@ -67,7 +67,7 @@ and more to come!
 - [Public Health Service Screening Application](https://phs-app-gules.vercel.app/login) / [Repository](https://github.com/phs-screening/phs-app)
 - [Platform to monitor volunteering efforts](https://github.com/phhackforgood/impacttrack/tree/main) / [Repository](https://github.com/phhackforgood/impacttrack)
 
-(feel free to look through my repository to view other projects!)
+(feel free to look through my repositories to view other projects!)
 
 <p>&nbsp;</p>
 

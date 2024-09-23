@@ -63,6 +63,7 @@ and more to come!
 <p>&nbsp;</p>
 
 ## 💡 Some projects 
+- [Todo List chatbot](https://rxchell.github.io/ip/) / [Repository](https://github.com/rxchell/ip)
 - [Study Buddy - A collaborative module planner](nusstudybuddy.vercel.app/) / [Repository](https://github.com/zaidansani/studybuddy)
 - [Public Health Service Screening Application](https://phs-app-gules.vercel.app/login) / [Repository](https://github.com/phs-screening/phs-app)
 - [Platform to monitor volunteering efforts](https://github.com/phhackforgood/impacttrack/tree/main) / [Repository](https://github.com/phhackforgood/impacttrack)

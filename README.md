@@ -1,14 +1,35 @@
-## 👋 Hello! I am Rachel! 🤩 (👉🏼 [My Website!](https://racheltaikejia.vercel.app/))
+# 👋 Hello! I am Rachel! 🤩 (👉🏼 [My Website!](https://racheltaikejia.vercel.app/))
 ✨ A `Computer Science` student from NUS! ✨  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="100"> 
 
 <p>&nbsp;</p>
 
 ## 👩🏻‍💻 I am interested in 
-**Software development (web / mobile / full-stack)**, **AI, Machine Learning**, **UI/UX**, **Project Managemenr**, **Product Management**
+**Software development (web / mobile / full-stack)**, **AI, Machine Learning**, **UI/UX**, **Project Management**, and **Product Management**
 
 > 🌟 **I am actively seeking and exploring other opportunities too eg Machine Learning, AI, Cloud Computing**! 🌟
 
 <p>&nbsp;</p>
+
+## 💡 Some projects 
+- **[Todo List chatbot](https://rxchell.github.io/ip/)** | [Repository](https://github.com/rxchell/ip) | [User Guide](https://rxchell.github.io/ip/)
+- **[Study Buddy - A collaborative module planner](nusstudybuddy.vercel.app/)** | [Repository](https://github.com/zaidansani/studybuddy)
+- **[Public Health Service Screening Application](https://phs-app-gules.vercel.app/login)** | [Repository](https://github.com/phs-screening/phs-app)
+- **[Platform to monitor volunteering efforts](https://github.com/phhackforgood/impacttrack/tree/main)** | [Repository](https://github.com/phhackforgood/impacttrack)
+
+(feel free to look through my repositories to view other projects!)
+
+<p>&nbsp;</p>
+
+#### 💞️ I am very willing to learn and work together! I am looking to collaborate on 
+- _any projects e.g. AI/ML_
+- _web development,_
+- _mobile development,_
+- _UI/UX,_ and
+- _any other areas (open to any opportunity)_! :)
+
+<p>&nbsp;</p>
+
+## 💻 Skills
 
 #### 💻 `Programming, Markup and Scripting Languages`
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -56,29 +77,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
-
-and more to come!
-
-<p>&nbsp;</p>
-
-## 💡 Some projects 
-- [Todo List chatbot](https://rxchell.github.io/ip/) / [Repository](https://github.com/rxchell/ip)
-- [Study Buddy - A collaborative module planner](nusstudybuddy.vercel.app/) / [Repository](https://github.com/zaidansani/studybuddy)
-- [Public Health Service Screening Application](https://phs-app-gules.vercel.app/login) / [Repository](https://github.com/phs-screening/phs-app)
-- [Platform to monitor volunteering efforts](https://github.com/phhackforgood/impacttrack/tree/main) / [Repository](https://github.com/phhackforgood/impacttrack)
-
-(feel free to look through my repositories to view other projects!)
-
-<p>&nbsp;</p>
-
-#### 💞️ I am very willing to learn and work together! I am looking to collaborate on 
-- _any projects e.g. AI/ML_
-- _web development,_
-- _mobile development,_
-- _UI/UX,_ and
-- _any other areas (open to any opportunity)_! :)
-
 
 <p>&nbsp;</p>
 

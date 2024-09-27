@@ -11,7 +11,7 @@
 <p>&nbsp;</p>
 
 ## 💡 Some projects 
-- **[Todo List chatbot](https://rxchell.github.io/ip/)** | [Repository](https://github.com/rxchell/ip) | [User Guide](https://rxchell.github.io/ip/)
+- **[Todo List chatbot](https://github.com/rxchell/ip/releases/tag/v0.2)** | [Repository](https://github.com/rxchell/ip) | [User Guide](https://rxchell.github.io/ip/)
 - **[Study Buddy - A collaborative module planner](nusstudybuddy.vercel.app/)** | [Repository](https://github.com/zaidansani/studybuddy) | [Documentation](https://docs.google.com/document/d/1aSa_ZZtREEqHChgDiMM3X-dfN_XoRx2dnQXUlXDxpf8/edit?usp=sharing)
 - **[Public Health Service Screening Application](https://phs-app-gules.vercel.app/login)** | [Repository](https://github.com/phs-screening/phs-app)
 - **[Platform to monitor volunteering efforts](https://github.com/phhackforgood/impacttrack/tree/main)** | [Repository](https://github.com/phhackforgood/impacttrack)

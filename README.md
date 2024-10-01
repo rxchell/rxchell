@@ -29,13 +29,6 @@
 
 <p>&nbsp;</p>
 
-<details>
-<summary>Some Github stats</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rxchell&show_icons=true&locale=en" alt="rxchell" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rxchell&" alt="rxchell" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxchell&langs_count=50" 
-</details>
-
 ## 💻 Skills
 
 #### 💻 `Programming, Markup and Scripting Languages`
@@ -94,3 +87,7 @@
 
 <p>&nbsp;</p>
 
+## Some Github stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rxchell&show_icons=true&locale=en" alt="rxchell" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rxchell&" alt="rxchell" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxchell&langs_count=50" 

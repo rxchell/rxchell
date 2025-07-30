@@ -4,7 +4,7 @@
 <p>&nbsp;</p>
 
 ## 👩🏻‍💻 I am interested in 
-**Software development (web / mobile / full-stack)**, **AI, Machine Learning**, **UI/UX**, **Project Management**, and **Product Management**
+**Software development (web / mobile / full-stack)**, **Cloud Computing**, **AI, Machine Learning**, **UI/UX**, **Project Management**, and **Product Management**
 
 > 🌟 **I am actively seeking and exploring other opportunities too eg Machine Learning, AI, Cloud Computing**! 🌟
 

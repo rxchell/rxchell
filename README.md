@@ -121,4 +121,3 @@
 
 ## Some Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rxchell&show_icons=true&locale=en" alt="rxchell" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxchell&langs_count=50" />

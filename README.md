@@ -4,9 +4,14 @@
 <p>&nbsp;</p>
 
 ## 👩🏻‍💻 I am interested in 
-**Software development (web / mobile / full-stack)**, **Cloud Computing**, **AI, Machine Learning**, **UI/UX**, **Project Management**, and **Product Management**
+- **Software development (web / mobile / full-stack)**
+- **Cloud Computing**
+- **AI, Machine Learning**
+- **UI/UX**
+- **Project Management**
+- **Product Management**
 
-> 🌟 **I am actively seeking and exploring other opportunities too eg Machine Learning, AI, Cloud Computing**! 🌟
+> 🌟 **I am actively seeking and exploring opportunities**! 🌟
 
 <p>&nbsp;</p>
 
@@ -21,12 +26,7 @@
 
 <p>&nbsp;</p>
 
-#### 💞️ I am very willing to learn and work together! I am looking to collaborate on 
-- _any projects e.g. AI/ML_
-- _web development,_
-- _mobile development,_
-- _UI/UX,_ and
-- _any other areas (open to any opportunity)_! :)
+#### 💞️ I am very willing to learn and work together!
 
 <p>&nbsp;</p>
 

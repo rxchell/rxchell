@@ -24,9 +24,7 @@
 
 (feel free to look through my repositories to view other projects!)
 
-<p>&nbsp;</p>
-
-#### 💞️ I am very willing to learn and work together!
+> 🌟 I am very willing to learn and work together! 🌟
 
 <p>&nbsp;</p>
 

@@ -19,7 +19,7 @@
 - **[Book Exchange Platform](https://book-loop-book-exchange.vercel.app/)** | [Repository](https://github.com/rxchell/book-loop-book-exchange)
 - **[Todo List chatbot](https://github.com/rxchell/ip/releases/tag/v0.2)** | [Repository](https://github.com/rxchell/ip) | [User Guide](https://rxchell.github.io/ip/)
 - **[Collaborative module planner](https://nusstudybuddy.vercel.app/)** | [Repository](https://github.com/zaidansani/studybuddy) | [Documentation](https://docs.google.com/document/d/1aSa_ZZtREEqHChgDiMM3X-dfN_XoRx2dnQXUlXDxpf8/edit?usp=sharing)
-- **[Assessing Reaction Time using AppleVisionPro](https://github.com/rxchell/hacking-spatial-computing-2025)** | [Repository](https://github.com/rxchell/hacking-spatial-computing-2025))
+- **[Assessing Reaction Time using AppleVisionPro](https://github.com/rxchell/hacking-spatial-computing-2025)** | [Repository](https://github.com/rxchell/hacking-spatial-computing-2025)
 - **[AI assistant for documents](https://www.community-hackathon.gov.sg/2025/safeshelter/)** | [Repository](https://github.com/rxchell/community-hackathon-2025)
 - **[Flood Risk Prediction](https://www.community-hackathon.gov.sg/2025/safeshelter/)** | [Repository](https://github.com/rxchell/DeepFloodSG)
 - **[Mobile Order Platform](https://github.com/rxchell/hack-and-roll-2025)** | [Repository](https://github.com/rxchell/hack-and-roll-2025)

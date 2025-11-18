@@ -5,11 +5,10 @@
 
 ## 👩🏻‍💻 I am interested in 
 - **Software development (web / mobile / full-stack)**
-- **Cloud Computing**
+- **Cloud Computing, Infrastructure, DevOps**
 - **AI, Machine Learning**
 - **UI/UX**
-- **Project Management**
-- **Product Management**
+- **Project / Product Management**
 
 > 🌟 **I am actively learning and seeking opportunities**! 🌟
 

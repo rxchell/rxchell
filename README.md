@@ -121,6 +121,3 @@
 - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) **Website**: https://racheltaikejia.vercel.app/
 
 <p>&nbsp;</p>
-
-## Some Github stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rxchell&show_icons=true&locale=en" alt="rxchell" />

@@ -1,13 +1,12 @@
 # 👋 Hello! I am Rachel! 🤩 (👉🏼 [My Website](https://racheltaikejia.vercel.app/))
-✨ A `Computer Science` student from NUS! ✨  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="100"> 
+✨ An Infrastructure Engineer at NCS! ✨  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="100"> 
 
 <p>&nbsp;</p>
 
 ## 👩🏻‍💻 I am interested in 
-- **Software development (web / mobile / full-stack)**
 - **Cloud Computing, Infrastructure, DevOps**
 - **AI, Machine Learning**
-- **UI/UX**
+- **Software development (web / mobile / full-stack)**
 - **Project / Product Management**
 
 > 🌟 **I am actively learning and seeking opportunities**! 🌟

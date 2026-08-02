@@ -1,5 +1,5 @@
 # 👋 Hello! I am Rachel! 🤩 (👉🏼 [My Website](https://racheltaikejia.vercel.app/))
-✨ An Infrastructure Engineer at NCS! ✨  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="100"> 
+✨ A Cloud Engineer at NCS! ✨  <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif" width="100"> 
 
 <p>&nbsp;</p>
 
